@@ -5,3 +5,8 @@ print "something else ain't it" #another comment
 a = {}
 
 a['asdf'] = 'asdf'
+a['lemon'] = 'lemon'
+
+print a
+
+#something new
