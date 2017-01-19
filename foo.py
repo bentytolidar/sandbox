@@ -1,5 +1,6 @@
 print "bar" #comment
-print "something else ain't it"
+print "something else ain't it" #another comment
+#h@x
 
 a = {}
 
