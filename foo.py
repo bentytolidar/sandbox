@@ -1,4 +1,4 @@
-print "bar"
+print "bar" #comment
 print "something else ain't it"
 
 a = {}
