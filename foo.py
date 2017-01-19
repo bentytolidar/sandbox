@@ -5,3 +5,5 @@ a = {}
 
 a['asdf'] = 'asdf'
 a['lemon'] = 'lemon'
+
+print a
